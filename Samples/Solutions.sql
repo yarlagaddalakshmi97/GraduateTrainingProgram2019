@@ -5,4 +5,4 @@
 
 < Your SQL Goes Here >
 
-/* <Add your 
+/* Your Record Count from the SQL execution */
