@@ -23,5 +23,7 @@ https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&
 Also this repository will hold the handouts and other trainings materials from the Classroom sessions.
  
 
-
+**Note**:
+The Samples Folder will provide the formats for the Submissions (For SQL & Python). 
+e.g For SQL Assignments, the template for Solution submission will be provided. 
 
