@@ -1,3 +1,7 @@
+
+Problem Set 01
+==============
+
 For this assignment, you will create a set of tables, fill them with data, and execute SELECT statements based on them. A description of the sample case and the table structures is provided in the TABLE DESCRIPTIONS section of this assignment.
 
 The data with which to populate the tables is given in the DATA section and the list of questions from which to generate your SELECT statements is given in the QUESTIONS section.
@@ -7,7 +11,7 @@ BookReference : This assignment is based on the exercises in Connolly and Begg t
 Use Online SQL Interpreter : http://sqlfiddle.com/#!4 (Use Oracle to ensure we have common Syntax)
 
 What to Hand In:
-===============
+---------------
 
 For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements (i.e., the SQL Plus feedback statement that says “Table Created” or “Table Altered”). You must also hand in a DESCRIBE statement for each one of the tables you create along with the SQL Plus feedback from that statement that shows a list of the columns in the table and their datatypes and lengths.
 
@@ -93,7 +97,7 @@ TEST3COL1 TEST3COL2            TEST3COL3
 
 
 TABLE DESCRIPTIONS
-===================
+--------------------
 
 The following set of tables make up a database that is used by a booking agency to book hotel reservations for their client hotels. Attributes that are underscored make up the primary key for that table. Attributes marked with @ denote a foreign key which refers to the primary key of another of the tables. In the Room table, Hotel_No is a foreign key which refers to the primary key of the Hotel table. Type of room is a one-character code that refers to smoking (S) or non-smoking (N). Price refers to the price of the room per night.
 
