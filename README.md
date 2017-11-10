@@ -5,7 +5,7 @@ Induction Assignments
 Welcome to Cigna IM.
 ----------------
 
-This repository will hold the SQL,Python and Git Assignments to be Completed for the New Onboards. Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments.
+This repository will hold the SQL,Python,Tableau and Git Assignments to be Completed for the New Onboards. Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments.
 
 **Teradata**: 
 https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681
