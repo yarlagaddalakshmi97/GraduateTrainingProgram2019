@@ -12,12 +12,12 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 
 [Teradata SQL: Functions, Data Conversions, and Working with Time](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402)
 
-https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624
+[Teradata SQL: Functions, Data Conversions, and Working with Time](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624)
 
-https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385226&source=myLearning&refresh=1401.060099228513
+[Teradata Basics: Data Storage and Access Methods](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385226&source=myLearning&refresh=1401.060099228513)
 
-**Git**:
-https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203933&source=myLearning&refresh=1527.566810774595
+## Git:
+[Beginner Git] https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203933&source=myLearning&refresh=1527.566810774595
 
 
 **Note**:
