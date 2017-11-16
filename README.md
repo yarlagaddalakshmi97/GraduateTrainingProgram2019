@@ -21,6 +21,9 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 
 [Advanced Git](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203915&source=myLearning&refresh=1168.061642315835)
 
+**Note**:
+The Samples Folder will provide the formats for the Submissions (For SQL & Python). e.g For SQL Assignments, the template for Solution submission will be provided. 
+
 Please register and Complete the Trainings from the following Online MOOC's. Upload all of your results of Challenges into your respective Github Pages. (Use Sign in with GitHub Option)
 
 ## CodeSchool (Git & SQL):
@@ -34,6 +37,3 @@ Please register and Complete the Trainings from the following Online MOOC's. Upl
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
 
 [Learn Python](https://www.codecademy.com/learn/learn-python)
-
-**Note**:
-The Samples Folder will provide the formats for the Submissions (For SQL & Python). e.g For SQL Assignments, the template for Solution submission will be provided. 
