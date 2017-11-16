@@ -1,16 +1,16 @@
 
-Induction Assignments
-==============
+#### Induction Assignments
 
-Welcome to Cigna IM.
-----------------
+### Welcome to Cigna IM.
 
-This repository will hold the SQL,Python,Tableau and Git Assignments to be Completed for the New Onboards. Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments.
+This repository will hold the SQL,Python,Tableau and Git Assignments to be Completed for the New Onboards. Also this repository will hold the handouts and other trainings materials from the Classroom sessions.
 
-**Teradata**: 
-https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681
+Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments. 
 
-https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402
+## Teradata: 
+[Teradata Basics: Relational Database and Data Warehouse Basics] (https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681)
+
+[Teradata SQL: Functions, Data Conversions, and Working with Time] (https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402)
 
 https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624
 
@@ -20,10 +20,6 @@ https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&
 https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203933&source=myLearning&refresh=1527.566810774595
 
 
-Also this repository will hold the handouts and other trainings materials from the Classroom sessions.
- 
-
 **Note**:
 The Samples Folder will provide the formats for the Submissions (For SQL & Python). 
 e.g For SQL Assignments, the template for Solution submission will be provided. 
-
