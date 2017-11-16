@@ -8,9 +8,9 @@ This repository will hold the SQL,Python,Tableau and Git Assignments to be Compl
 Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments. 
 
 ## Teradata: 
-[Teradata Basics: Relational Database and Data Warehouse Basics] (https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681)
+[Teradata Basics: Relational Database and Data Warehouse Basics](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681)
 
-[Teradata SQL: Functions, Data Conversions, and Working with Time] (https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402)
+[Teradata SQL: Functions, Data Conversions, and Working with Time](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402)
 
 https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624
 
