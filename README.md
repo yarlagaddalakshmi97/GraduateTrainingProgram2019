@@ -29,7 +29,7 @@ Please register and Complete the Trainings from the following Online MOOC's. Upl
 [Try-Git](https://www.codeschool.com/courses/try-git)
 
 ## CodeAcademy (Python):
-![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.svg)
+![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
 
 [Learn Python](https://www.codecademy.com/learn/learn-python)
 
