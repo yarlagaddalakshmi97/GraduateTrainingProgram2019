@@ -18,6 +18,7 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 
 ## Git:
 [Beginner Git](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203933&source=myLearning&refresh=1527.566810774595)
+
 [Advanced Git](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203915&source=myLearning&refresh=1168.061642315835)
 
 Please register and Complete the Trainings from the following Online MOOC's. Upload all of your results of Challenges into your respective Github Pages. (Use Sign in with GitHub Option)
@@ -26,6 +27,7 @@ Please register and Complete the Trainings from the following Online MOOC's. Upl
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-school-ps.png)
 
 [Try-SQL](https://www.codeschool.com/courses/try-sql)
+
 [Try-Git](https://www.codeschool.com/courses/try-git)
 
 ## CodeAcademy (Python):
