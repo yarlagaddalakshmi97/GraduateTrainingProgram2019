@@ -23,7 +23,7 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 Please register and Complete the Trainings from the following Online MOOC's. Upload all of your results of Challenges into your respective Github Pages. (Use Sign in with GitHub Option)
 
 ## CodeSchool (Git & SQL):
-![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-school-ps.svg)
+![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-school-ps.png)
 
 [Try-SQL](https://www.codeschool.com/courses/try-sql)
 [Try-Git](https://www.codeschool.com/courses/try-git)
