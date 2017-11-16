@@ -24,11 +24,13 @@ Please register and Complete the Trainings from the following Online MOOC's. Upl
 
 ## CodeSchool (Git & SQL):
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-school-ps.svg)
+
 [Try-SQL](https://www.codeschool.com/courses/try-sql)
 [Try-Git](https://www.codeschool.com/courses/try-git)
 
 ## CodeAcademy (Python):
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.svg)
+
 [Learn Python](https://www.codecademy.com/learn/learn-python)
 
 **Note**:
