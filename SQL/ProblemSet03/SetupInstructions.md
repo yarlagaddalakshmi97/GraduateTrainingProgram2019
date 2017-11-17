@@ -39,7 +39,7 @@ Table created.
 ```
 
 
-```
+```sql
 
 SQL> desc test3
 
