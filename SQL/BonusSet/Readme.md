@@ -12,11 +12,13 @@ DIRECTOR (id, fname, lname)
 CAST (pid, mid, role)
 MOVIE_DIRECTOR (did, mid)
 
-Notes:
---------
+## Notes:
+
 id column in ACTOR, MOVIE & DIRECTOR tables is a key for the respective table.  
 CAST.pid refers to ACTOR.id, CAST.mid refers to MOVIE.id
 MOVIE_DIRECTOR.did refers to DIRECTOR.id and MOVIE_DIRECTOR.mid refers to MOVIE.id 
+
+## Questions:
 
 1. List all the actors who acted in at least one film in 2nd half of the 19th century and in at least one film in the 1st half of the 20th century
 1. List all the directors who directed a film in a leap year 
