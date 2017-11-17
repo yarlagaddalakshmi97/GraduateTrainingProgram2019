@@ -8,13 +8,6 @@ For your convenience, here is a graph showing the various connections between th
 9th graders are blue, 10th graders are green, 11th graders are yellow, and 12th graders are purple. 
 Undirected black edges indicate friendships, and directed red edges indicate that one student likes another student.
 
-Use SQLLite (Refer InstructionsSQLlite.md for Installation and browsing details)
-
-Important Notes:
-Your queries are executed using SQLite, so you must conform to the SQL constructs supported by SQLite.
-Unless a specific result ordering is asked for, you can return the result rows in any order.
-You are to translate the English into a SQL query that computes the desired result over all possible databases. 
-
 What to Hand In:
 ---------------
 
@@ -22,7 +15,7 @@ For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE
 The best way to capture this information (the CREATE, ALTER, and DESCRIBE statements and their results) is to copy and paste your SQL commands and their results to a Notepad file. When you are done with all the parts of the assignment, you can print out the Notepad file and hand it in. As an example of what to hand in for the CREATE TABLE portion of the assignment, let’s say you create the TEST3 table. The primary key is a NUMBER with a maximum length of 6. The primary key column name is TEST3COL1. The table has two other columns: TEST3COL2 which is a VARCHAR2 of length 20 and TEST3COL3 which is a DATE.
 Here is what you would hand in for the creation of this table. It includes a copy of your SQL CREATE TABLE statement, the SQL result saying that the table has been created, your execution of the DESC statement, and its result showing the definition of all the columns in that table.
 
-```
+```sql
 
 SQL> create table test3
 
@@ -36,14 +29,13 @@ SQL> create table test3
 
          primary key (test3col1));
 
- 
 
 Table created.
 
 ```
 
 
-```
+```sql
 
 SQL> desc test3
 
@@ -63,7 +55,7 @@ SQL> desc test3
 You will use the data in the DATA section of this assignment to populate the database, i.e., use INSERT and UPDATE statements to insert the rows of values into the tables. You do not need to hand in copies or feedback from any of your INSERT and UPDATE statements. Once you have inserted all the data into your tables, you will create SELECT statements that will provide answers to the questions listed in the QUESTIONS section of this assignment. For each question, please hand in a copy of the SELECT statement you issue and the SQL Plus feedback. Again, the best way to do this is to copy and paste to a Notepad file. You can include this information in the same Notepad file you use to show your TABLE CREATE statements.
 As an example of what to hand in for this portion of the assignment, let’s use the TEST3 table. Suppose it contains the following data:
 
-```
+```sql
 
 TEST3COL1 TEST3COL2            TEST3COL3
 
@@ -79,8 +71,7 @@ TEST3COL1 TEST3COL2            TEST3COL3
 
 If the question is “List all the data in table TEST3,” here is what you would show in your Notepad file. It includes a copy of the question (it’s important that you identify the question your SELECT statement is attempting to answer), your SELECT statement and the results of that SELECT statement. List all the data in table TEST3.
 
-```
-
+```sql
 
 SQL> select * from test3;
 
@@ -96,7 +87,7 @@ TEST3COL1 TEST3COL2            TEST3COL3
    
 ```
 
-TABLE DESCRIPTIONS
+Table Descriptions
 --------------------
 Here's the schema: 
 
