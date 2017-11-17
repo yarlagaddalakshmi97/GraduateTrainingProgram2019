@@ -2,13 +2,7 @@
 Problem Set 01
 ==============
 
-For this assignment, you will create a set of tables, fill them with data, and execute SELECT statements based on them. A description of the sample case and the table structures is provided in the TABLE DESCRIPTIONS section of this assignment.
-
-The data with which to populate the tables is given in the DATA section and the list of questions from which to generate your SELECT statements is given in the QUESTIONS section.
-
 BookReference : This assignment is based on the exercises in Connolly and Begg text book at the end of Chapter 13, pp. 437-439.
-
-Use Online SQL Interpreter : http://sqlfiddle.com/#!4 (Use Oracle to ensure we have common Syntax)
 
 What to Hand In:
 ---------------
@@ -20,7 +14,7 @@ The best way to capture this information (the CREATE, ALTER, and DESCRIBE statem
 Here is what you would hand in for the creation of this table. It includes a copy of your SQL CREATE TABLE statement, the SQL result saying that the table has been created, your execution of the DESC statement, and its result showing the definition of all the columns in that table.
 
 
-```
+```sql
 
 SQL> create table test3
 
@@ -41,7 +35,7 @@ Table created.
 ```
 
 
-```
+```sql
 
 SQL> desc test3
 
@@ -62,7 +56,7 @@ You will use the data in the DATA section of this assignment to populate the dat
 
 As an example of what to hand in for this portion of the assignment, let’s use the TEST3 table. Suppose it contains the following data:
 
-```
+```sql
 
 TEST3COL1 TEST3COL2            TEST3COL3
 
@@ -78,7 +72,7 @@ TEST3COL1 TEST3COL2            TEST3COL3
 
 If the question is “List all the data in table TEST3,” here is what you would show in your Notepad file. It includes a copy of the question (it’s important that you identify the question your SELECT statement is attempting to answer), your SELECT statement and the results of that SELECT statement. List all the data in table TEST3.
 
-```
+```sql
 
 
 SQL> select * from test3;
