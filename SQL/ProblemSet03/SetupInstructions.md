@@ -7,7 +7,7 @@ There's not much data yet, but you can still try out some interesting queries.
 What to Hand In:
 ---------------
 
-For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements (i.e., the SQL Plus feedback statement that says “Table Created” or “Table Altered”). You must also hand in a DESCRIBE statement for each one of the tables you create along with the SQL Plus feedback from that statement that shows a list of the columns in the table and their datatypes and lengths.
+For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements. You must also hand in a DESCRIBE statement for each one of the tables that shows a list of the columns in the table and their datatypes and lengths.
 The best way to capture this information (the CREATE, ALTER, and DESCRIBE statements and their results) is to copy and paste your SQL commands and their results to a Notepad file. When you are done with all the parts of the assignment, you can print out the Notepad file and hand it in. As an example of what to hand in for the CREATE TABLE portion of the assignment, let’s say you create the TEST3 table. The primary key is a NUMBER with a maximum length of 6. The primary key column name is TEST3COL1. The table has two other columns: TEST3COL2 which is a VARCHAR2 of length 20 and TEST3COL3 which is a DATE.
 Here is what you would hand in for the creation of this table. It includes a copy of your SQL CREATE TABLE statement, the SQL result saying that the table has been created, your execution of the DESC statement, and its result showing the definition of all the columns in that table.
 
@@ -95,7 +95,7 @@ English: There is a movie with ID number mID, a title, a release year, and a dir
 Reviewer ( rID, name ) 
 English: The reviewer with ID number rID has a certain name. 
 
-Rating ( rID, mID, stars, ratingDate ) 
+Rating ( rID, mID, stars, ratingDate )
 English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate. 
 
 Your queries will run over a small data set conforming to the schema. [You can also download the schema and data](https://s3-us-west-2.amazonaws.com/prod-c2g/db/Winter2013/files/rating.sql)
