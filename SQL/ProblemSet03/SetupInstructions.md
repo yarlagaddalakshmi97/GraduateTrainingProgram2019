@@ -4,13 +4,6 @@ Problem Set 03
 You've started a new movie-rating website, and you've been collecting data on reviewers' ratings of various movies. 
 There's not much data yet, but you can still try out some interesting queries. 
 
-Use SQLLite (Refer InstructionsSQLlite.md for Installation and browsing details)
-
-Important Notes:
-Your queries are executed using SQLite, so you must conform to the SQL constructs supported by SQLite.
-Unless a specific result ordering is asked for, you can return the result rows in any order.
-You are to translate the English into a SQL query that computes the desired result over all possible databases. 
-
 What to Hand In:
 ---------------
 
