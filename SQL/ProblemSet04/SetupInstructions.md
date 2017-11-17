@@ -4,7 +4,7 @@ Problem Set 04
 Students at your hometown high school have decided to organize their social network using databases. 
 So far, they have collected information about sixteen students in four grades, 9-12. 
 
-For your convenience, here is a graph showing the various connections between the students in our database. 
+For your convenience, here is a [graph](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/ProblemSet04/social.png) showing the various connections between the students in our database. 
 9th graders are blue, 10th graders are green, 11th graders are yellow, and 12th graders are purple. 
 Undirected black edges indicate friendships, and directed red edges indicate that one student likes another student.
 
