@@ -1,4 +1,4 @@
-## Installation of SQLite (if needed)
+## Installation of SQLite
 
 To get started, type the following command to check if you already have SQLite installed.
 
