@@ -1,5 +1,4 @@
 # ProblemSet01 - Questions
-### Note:
 
 1. List full details of all hotels.
 1. List full details of all hotels in New York.
