@@ -1,4 +1,4 @@
-# Important Notes for SQL Assignments
+# Important Notes for SQL ProblemSets
 
 1. For all of the ProblemSets provided, you will create a set of tables, fill them with data, and execute SELECT statements based on them.
 1. Read the SetupInstructions.md under each Problemset folders for a description of the sample case and the table structures.
@@ -17,3 +17,11 @@
 [SQLite Install](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/SQLiteInstallation.md)
 1. You can create one small sqllite DB and complete all of the problesets by setting up the necessary tables. You will need to upload the sqllite db as well to your respective Solutions folders.
 1. Once you complete all of the problemsets , you will need to complete the final [Grading Set](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/GradingSet/README.md) to mark your SQL Assessment as Complete.
+
+
+# Textbook Readings and Other Materials
+
+1. A First Course in Database Systems (3rd edition) by Ullman and Widom 
+1. Database Management Systems (3rd edition) by Ramakrishnan and Gehrke
+1. Fundamentals of Database Systems (6th edition) by Elmasri and Navathe
+1. Database System Concepts (6th edition) by Silberschatz, Korth, and Sudarshan

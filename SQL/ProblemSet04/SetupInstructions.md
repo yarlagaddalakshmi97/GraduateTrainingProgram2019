@@ -1,7 +1,7 @@
 Problem Set 04
 ==============
 
-Students at your hometown high school have decided to organize their social network using databases. 
+Students at your home-town high school have decided to organize their social network using databases. 
 So far, they have collected information about sixteen students in four grades, 9-12. 
 
 For your convenience, here is a [graph](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/ProblemSet04/social.png) showing the various connections between the students in our database. 
@@ -12,7 +12,8 @@ What to Hand In:
 ---------------
 
 For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements. You must also hand in a DESCRIBE statement for each one of the tables you create from that statement that shows a list of the columns in the table and their datatypes and lengths.
-The best way to capture this information (the CREATE, ALTER, and DESCRIBE statements and their results) is to copy and paste your SQL commands and their results to a Notepad file. When you are done with all the parts of the assignment, you can print out the Notepad file and hand it in. As an example of what to hand in for the CREATE TABLE portion of the assignment, let’s say you create the TEST3 table. The primary key is a NUMBER with a maximum length of 6. The primary key column name is TEST3COL1. The table has two other columns: TEST3COL2 which is a VARCHAR2 of length 20 and TEST3COL3 which is a DATE.
+The best way to capture this information (the CREATE, ALTER, and DESCRIBE statements and their results) is to copy and paste your SQL commands and their results to a Notepad file. When you are done with all the parts of the assignment, you can print out the Notepad file and hand it in. As an example of what to hand in for the CREATE TABLE portion of the assignment, let’s say you create the TEST3 table. The primary key is a NUMBER with a maximum length of 6. The primary key column name is TEST3COL1. 
+The table has two other columns: TEST3COL2 which is a VARCHAR2 of length 20 and TEST3COL3 which is a DATE.
 Here is what you would hand in for the creation of this table. It includes a copy of your SQL CREATE TABLE statement, the SQL result saying that the table has been created, your execution of the DESC statement, and its result showing the definition of all the columns in that table.
 
 ```sql
