@@ -2,11 +2,10 @@ Problem Set 02
 ================
 
 For this assignment, you will create a set of tables, fill them with data, and execute SELECT statements based on them. 
-A description of the sample case and the table structures is provided in the TABLE DESCRIPTIONS section of this assignment. 
 
 The data with which to populate the tables is given in the DataSetup section 
 
-Use Online SQL Interpreter : http://sqlfiddle.com/#!4 (Use Oracle to ensure we have common Syntax)
+Use Online SQL Interpreter : http://sqlfiddle.com/#!5 
 
 
 Database Details
