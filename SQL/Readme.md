@@ -4,7 +4,7 @@
 1. Read the SetupInstructions.md under each Problemset folders for a description of the sample case and the table structures.
 1. The data with which to populate the tables needs to be generated based on the sample data provided in the Tables.pdf or specific *.pdf files that is provided.
    You would need to generated 2 files
-   1. CreateTables.sql (Has the DDL Statements for the respective tables)
+   1. TableSetup.sql (Has the DDL Statements for the respective tables)
    1. DataSetup.sql (Has the DML Statements for DataSetup into the respective DB Tables)
    **Note**: Some Problemsets might provide you with the files for datasetup. Make sure you upload a copy of the same under Solutions folder.
 1. The list of questions from which to generate your SELECT statements is given in the Questions.md file.
