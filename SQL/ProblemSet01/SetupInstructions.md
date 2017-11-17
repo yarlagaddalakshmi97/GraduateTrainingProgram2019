@@ -89,9 +89,8 @@ TEST3COL1 TEST3COL2            TEST3COL3
    
 ```
 
-
-TABLE DESCRIPTIONS
---------------------
+Table Descriptions
+-------------------
 
 The following set of tables make up a database that is used by a booking agency to book hotel reservations for their client hotels. Attributes that are underscored make up the primary key for that table. Attributes marked with @ denote a foreign key which refers to the primary key of another of the tables. In the Room table, Hotel_No is a foreign key which refers to the primary key of the Hotel table. Type of room is a one-character code that refers to smoking (S) or non-smoking (N). Price refers to the price of the room per night.
 
