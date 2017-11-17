@@ -28,8 +28,6 @@ SQL> create table test3
 
          primary key (test3col1));
 
- 
-
 Table created.
 
 ```
