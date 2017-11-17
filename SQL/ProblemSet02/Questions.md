@@ -6,7 +6,7 @@
 1. Write a query to find the plant name which required seeds less than 20 which plant on 14-APR 
 1. List the amount of sunlight and water to all plants with names that start with letter  'c' or letter 'r'. 
 1. Write a valid SQL statement that displays the plant name and  the total amount of seed required for each plant that were plant in the garden. The output should be in descending order of plant name. 
-1. Write a valid SQL statement that calculates the average number of items produced per seed planted for each plant type:( (Average number of items = total amount picked / total seeds planted.) 
+1. Write a valid SQL statement that calculates the average number of items produced per seed planted for each plant type:( (Average Number of Items = Total Amount Picked / Total Seeds Planted.) 
 1. Write a valid SQL statement that would produce a result set like the following: 
 
         name |  name  |    date    | amount 
