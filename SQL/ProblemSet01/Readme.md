@@ -6,7 +6,9 @@
    You would need to generated 2 files
    1. CreateTables.sql (Has the DDL Statements for the respective tables)
    1. DataSetup.sql (Has the DML Statements for DataSetup into the respective DB Tables)
-   Note: Some Problemsets might provide you with the files for datasetup. Make sure you upload a copy of the same under Solutions folder.
+   
+   **Note**: Some Problemsets might provide you with the files for datasetup. Make sure you upload a copy of the same under Solutions folder.
+
 1. The list of questions from which to generate your SELECT statements is given in the Questions.md file.
 1. Your queries are expected to be run using SQLite, so you must conform to the SQL constructs supported by SQLite.
 1. Unless a specific result ordering is asked for, you can return the result rows in any order.
