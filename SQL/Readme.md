@@ -16,3 +16,4 @@
 1. You can use SQLFiddle for building your schema and test execution. But you will need to submit your results using a Sqllite instance you will create using the steps mentioned in 
 [SQLLite Install](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/SQLliteInsstallation.md)
 1. You can create one small sqllite DB and complete all of the problesets by setting up the necessary tables. You will need to upload the sqllite db as well to your respective Solutions folders.
+1. Once you complete all of the ProblemSets , you will need to Complete the final [Grading Set] (https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/GradingSet/README.md) to mark your SQL Assesment as Complete.
