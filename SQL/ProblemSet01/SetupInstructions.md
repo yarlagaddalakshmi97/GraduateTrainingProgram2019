@@ -1,5 +1,5 @@
 
-Problem Set 01
+ProblemSet 01
 ==============
 
 BookReference : This assignment is based on the exercises in Connolly and Begg text book at the end of Chapter 13, pp. 437-439.
@@ -7,7 +7,7 @@ BookReference : This assignment is based on the exercises in Connolly and Begg t
 What to Hand In:
 ---------------
 
-For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements (i.e., the SQL Plus feedback statement that says “Table Created” or “Table Altered”). You must also hand in a DESCRIBE statement for each one of the tables you create that shows a list of the columns in the table and their datatypes and lengths.
+For each table, you must show the SQL CREATE TABLE statement and any ALTER TABLE statements you use to set up your tables along with the results of those statements. You must also hand in a DESCRIBE statement for each one of the tables you create that shows a list of the columns in the table and their datatypes and lengths.
 
 The best way to capture this information (the CREATE, ALTER, and DESCRIBE statements and their results) is to copy and paste your SQL commands and their results to a Notepad file. When you are done with all the parts of the assignment, you can print out the Notepad file and hand it in. As an example of what to hand in for the CREATE TABLE portion of the assignment, let’s say you create the TEST3 table. The primary key is a NUMBER with a maximum length of 6. The primary key column name is TEST3COL1. The table has two other columns: TEST3COL2 which is a VARCHAR2 of length 20 and TEST3COL3 which is a DATE.
 
