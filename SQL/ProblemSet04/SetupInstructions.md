@@ -52,7 +52,7 @@ SQL> desc test3
 ```
 
 
-You will use the data in the DATA section of this assignment to populate the database, i.e., use INSERT and UPDATE statements to insert the rows of values into the tables. You do not need to hand in copies or feedback from any of your INSERT and UPDATE statements. Once you have inserted all the data into your tables, you will create SELECT statements that will provide answers to the questions listed in the QUESTIONS section of this assignment. For each question, please hand in a copy of the SELECT statement you issue and the SQL Plus feedback. Again, the best way to do this is to copy and paste to a Notepad file. You can include this information in the same Notepad file you use to show your TABLE CREATE statements.
+You will use the data in the DATA section of this assignment to populate the database, i.e., use INSERT and UPDATE statements to insert the rows of values into the tables. You do not need to hand in copies or feedback from any of your INSERT and UPDATE statements. Once you have inserted all the data into your tables, you will create SELECT statements that will provide answers to the questions listed in the QUESTIONS section of this assignment. For each question, please hand in a copy of the SELECT statement you issue. Again, the best way to do this is to copy and paste to a Notepad file. You can include this information in the same Notepad file you use to show your TABLE CREATE statements.
 As an example of what to hand in for this portion of the assignment, let’s use the TEST3 table. Suppose it contains the following data:
 
 ```sql
