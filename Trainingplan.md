@@ -26,4 +26,3 @@
 | Week 8 | 02-01-2018 | 05-01-2018 | Sprint 17.7 | F008 | US1018 | Managed Healthcare | Classroom | TBD | 10 |
 | F009 | US1019 | Testing | Virtual & Classroom | 20 |
 | F010 | US1020 | Tableau | Classroom | 20 |
-|  |  |  |  |  |  |  |  |  |  |
