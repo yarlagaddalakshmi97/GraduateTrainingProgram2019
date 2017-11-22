@@ -96,4 +96,4 @@ performer(perf_no, perf_is, instrument, perf_type)
 place(place_no, place_town, place_country)
 plays_in(player, band_id)
 
-Your queries will run over a small data set conforming to the schema. [You can also download the schema and data]()
+Your queries will run over a small data set conforming to the schema. [You can also download the data](https://github.com/krishnakumarraghu/New-Onboards-Training/blob/master/SQL/ProblemSet05/Tables.md)
