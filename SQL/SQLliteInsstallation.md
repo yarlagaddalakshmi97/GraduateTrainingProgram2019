@@ -49,3 +49,4 @@ OSX or Windows: SQLite DB Browser
 -----------------------------
 
 Install [DB Browser for SQLite](http://sqlitebrowser.org/), which is a free tool to explore a SQLite database and execute queries on the data.
+Install [SQLiteStudio](https://sqlitestudio.pl/files/sqlitestudio3/complete/win32/sqlitestudio-3.1.1.zip). No need to install just run SQLiteStudio.exe once your download is complete.
