@@ -21,6 +21,9 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 
 [Advanced Git](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203915&source=myLearning&refresh=1168.061642315835)
 
+## Python
+[Introduction to Python - LearningBoard](https://connectedlearning.accenture.com/learningboard/167554-introduction-to-python)
+
 **Note**:
 The Samples Folder will provide the formats for the Submissions (For SQL & Python). e.g For SQL Assignments, the template for Solution submission will be provided. 
 
