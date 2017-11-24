@@ -24,6 +24,14 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 ## Python
 [Introduction to Python - LearningBoard](https://connectedlearning.accenture.com/learningboard/167554-introduction-to-python)
 
+## Tableau
+[Tableau Self-Study](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=trainingHistory&activityID=1092011&source=LMS&refresh=569)
+
+[Tableau-Online Tutorial](https://www.tableau.com/learn/training)
+
+##Looker
+[Looker-Online Tutorial](https://info.looker.com/youtube-learning-looker-tutorials-and-product-features)
+
 **Note**:
 The Samples Folder will provide the formats for the Submissions (For SQL & Python). e.g For SQL Assignments, the template for Solution submission will be provided. 
 
