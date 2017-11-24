@@ -29,7 +29,7 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 
 [Tableau-Online Tutorial](https://www.tableau.com/learn/training)
 
-##Looker
+## Looker
 [Looker-Online Tutorial](https://info.looker.com/youtube-learning-looker-tutorials-and-product-features)
 
 **Note**:
