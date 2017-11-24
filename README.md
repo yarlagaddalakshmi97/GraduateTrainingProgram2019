@@ -25,6 +25,8 @@ Please find video list for Teradata and Git Training. Please go-over the same co
 [Introduction to Python - LearningBoard](https://connectedlearning.accenture.com/learningboard/167554-introduction-to-python)
 
 ## Tableau
+[Introduction to Data Visualization](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=channelMatrix&activityID=1136896&source=myLearning&refresh=608&channelTitle=Specialty&sequenceId=224671a0-6e42-4840-b1da-a390dda4694a&skillName=undefined)
+
 [Tableau Self-Study](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=trainingHistory&activityID=1092011&source=LMS&refresh=569)
 
 [Tableau-Online Tutorial](https://www.tableau.com/learn/training)
