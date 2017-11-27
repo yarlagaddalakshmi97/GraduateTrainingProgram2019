@@ -8,7 +8,7 @@ This repository will hold the SQL,Python,Tableau,Looker and Git Learning aids an
 Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments. 
 
 ## Teradata
-[Introduction to Data Integration](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1126165&source=myLearning&refresh=1366.888905563661)
+[Introduction to Data Integration](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1126165&source=myLearning&refresh=1366.888905563661) Duration 2 Hours
 
 [Teradata Basics: Relational Database and Data Warehouse Basics](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681)
 
