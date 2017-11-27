@@ -8,15 +8,15 @@ This repository will hold the SQL,Python,Tableau,Looker and Git Learning aids an
 Please find video list for Teradata and Git Training. Please go-over the same completly before attempting the assignments. 
 
 ## Teradata
-[Introduction to Data Integration](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1126165&source=myLearning&refresh=1366.888905563661) Duration 2 Hours
+[Introduction to Data Integration](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1126165&source=myLearning&refresh=1366.888905563661) Duration- 2 Hours
 
-[Teradata Basics: Relational Database and Data Warehouse Basics](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681)
+[Teradata Basics: Relational Database and Data Warehouse Basics](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385220&source=myLearning&refresh=1452.5051620625681) Duration- 1.85 hour(s)
 
-[Teradata SQL: The SELECT Statement, Joins, and Subqueries](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402)
+[Teradata SQL: The SELECT Statement, Joins, and Subqueries](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385227&source=myLearning&refresh=1771.7339089513402) Duration- 3.42 hour(s)
 
-[Teradata SQL: Functions, Data Conversions, and Working with Time](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624)
+[Teradata SQL: Functions, Data Conversions, and Working with Time](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385228&source=myLearning&refresh=1124.668913442624) Duration- 2.52 hour(s)
 
-[Teradata Basics: Data Storage and Access Methods](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385226&source=myLearning&refresh=1401.060099228513)
+[Teradata Basics: Data Storage and Access Methods](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1385226&source=myLearning&refresh=1401.060099228513) Duration- 2.82 hour(s)
 
 ## Git
 [Beginner Git](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1203933&source=myLearning&refresh=1527.566810774595)
