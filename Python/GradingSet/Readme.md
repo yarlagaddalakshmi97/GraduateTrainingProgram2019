@@ -1,10 +1,17 @@
 ## Python Basics - Grading Exercise
 
-        Number |  NewtonSqrt  
+        Question |  Points  
         -------|-------------
-		01 | 10
-		02 | 10
-	    03 | 10
+		01| 10
+		02| 10
+		03| 10
+		04| 10
+		05| 5
+		06| 10
+		07| 10
+		08| 5
+		09| 5
+		10 | 10
 	    04 | 10
 	    05 | 5
 	    06 | 10
