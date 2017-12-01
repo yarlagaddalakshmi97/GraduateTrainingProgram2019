@@ -6,11 +6,11 @@ One way to find the GCD of two numbers is based on the observation that if r is 
 a is divided by b, then gcd(a, b) = gcd(b, r). As a base case, we can use gcd(a, 0) = a. 
 Write a function called gcd that takes parameters a and b and returns their greatest common divisor.
 
-1. A number, a, is a power of b if it is divisible by b and a/b is a power of b. Write a
+2. A number, a, is a power of b if it is divisible by b and a/b is a power of b. Write a
 function called is_power that takes parameters a and b and returns True if a is a power of b. Note:
 you will have to think about the base case.
 
-1. Observe the following function definitions. They Calculate the Factorial as per the Mathematical
+3. Observe the following function definitions. They Calculate the Factorial as per the Mathematical
 definition 1! = 1
 		  (n + 1)! = (n + 1) * n!
 Implement factI(n) as an Iterative Implementation & factR(n) as a Recursive Implementation
@@ -26,10 +26,10 @@ def factR(n):
 	Uses Recursive Implementation"""
 ```
 
-1. Write a program that computes the decimal equivalent of the binary number
+4. Write a program that computes the decimal equivalent of the binary number
 10011?
 
-1. Implement a function that meets the specification below. Use a try-except block.
+5. Implement a function that meets the specification below. Use a try-except block.
 ```python
 def sumDigits(s):
 	"""Assumes s is a string
@@ -37,7 +37,7 @@ def sumDigits(s):
 	For example, if s is 'a2b3c' it returns 5"""
 ```
 
-1. Implement a function that satisfies the specification. Use a try-except block.
+6. Implement a function that satisfies the specification. Use a try-except block.
 ```python
 def findAnEven(l):
 	"""Assumes l is a list of integers
@@ -45,7 +45,7 @@ def findAnEven(l):
 	Raises ValueError if l does not contain an even number"""
 ```
 
-1. A palindrome is a word that is spelled the same backward and forward, like "Malayalam"
+7. A palindrome is a word that is spelled the same backward and forward, like "Malayalam"
 and "Noon" . Recursively, a word is a palindrome if the first and last letters are the same and the
 middle is a palindrome.
 Write a function called is_palindrome that takes a string argument and returns True if it
@@ -61,7 +61,7 @@ def isPalindrome(s):
 ```
 Ensure you build a test function testIsPalindrome() that tests your palindrome function.
 
-1. The built-in function eval takes a string and evaluates it using the Python interpreter.
+8. The built-in function eval takes a string and evaluates it using the Python interpreter.
 For example:
 ```python
 >>> eval('1 + 2 * 3')
@@ -77,7 +77,7 @@ evaluates it using eval, and prints the result.
 It should continue until the user enters 'done', and then return the value of the last expression it
 evaluated.
 
-1. One way of computing square roots is Newton’s method. Suppose that you
+9. One way of computing square roots is Newton’s method. Suppose that you
 want to know the square root of a. If you start with almost any estimate, x, you can compute
 a better estimate with the following formula:
 y = (x + a/x)/2 For example, if a is 4 and x is 3:

@@ -18,7 +18,7 @@ and prints the string with enough leading spaces so that the last letter of the 
 then prints the largest odd number that was entered. If no odd number was
 entered, it should print a message to that effect.
 
-1. Practice using the Python interpreter as a calculator:
+4. Practice using the Python interpreter as a calculator:
 	```
 	a) The volume of a sphere with radius r is 4/3pr3. What is the volume of a sphere with radius 5?
 	Hint: 392.7 is wrong!
@@ -29,20 +29,20 @@ entered, it should print a message to that effect.
 	tempo (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
     
 	```
-1. Write a program that asks the user to enter an integer and
+5. Write a program that asks the user to enter an integer and
 prints two integers, root and pwr, such that 0 < pwr < 6 and root**pwr is equal
 to the integer entered by the user. If no such pair of integers exists, it should
 print a message to that effect.
 
-1. Let s be a string that contains a sequence of decimal numbers
+6. Let s be a string that contains a sequence of decimal numbers
 separated by commas, e.g., s = '1.23,2.4,3.123'. Write a program that prints
 the sum of the numbers in s.
 
-1. Write a function isIn() that accepts two strings as arguments
+7. Write a function isIn() that accepts two strings as arguments
 and returns True if either string occurs anywhere in the other, and False
 otherwise. Hint: you might want to use the built-in str operation in.
 
-1. Implement a function that satisfies the specification. Use a try-except block.
+8. Implement a function that satisfies the specification. Use a try-except block.
 
 ```python
 def getRatios(vect1, vect2):
@@ -51,7 +51,7 @@ def getRatios(vect1, vect2):
 	vect1[i]/vect2[i]"""
 ```
 
-1. Assume that we execute the following assignment statements:
+9. Assume that we execute the following assignment statements:
 width = 17
 height = 12.0
 delimiter = '.'
@@ -67,7 +67,7 @@ the expression).
 Use the Python interpreter to check your answers
 ```
 
-1. Observe the Code Snippet
+10. Observe the Code Snippet
 ```python
 x = 25
 epsilon = 0.01
