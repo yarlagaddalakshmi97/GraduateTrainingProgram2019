@@ -81,6 +81,7 @@ evaluated.
 want to know the square root of a. If you start with almost any estimate, x, you can compute
 a better estimate with the following formula:
 y = (x + a/x)/2 For example, if a is 4 and x is 3:
+
 ```python
 >>> a = 4.0
 >>> x = 3.0
@@ -88,7 +89,9 @@ y = (x + a/x)/2 For example, if a is 4 and x is 3:
 >>> print y
 2.16666666667
 ````
+
 a) Write a function NewtonSqrt() to abstract the Newton's Method of calculation Square roots.
+
 b) Write a function named test_square_root that prints a table like this:
 
         Number |  NewtonSqrt  |    math.sqr  | Difference 
