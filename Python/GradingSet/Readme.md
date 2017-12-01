@@ -2,24 +2,28 @@
 
 	Question | Points
 	---------|-------
-	  01 | 10
-	  02 | 10
-      03 | 10
-      04 | 10
-      05 | 5
-      06 | 10
-      07 | 10
-      08 | 5
-      09 | 5
-      10 | 5
-      11 | 10 
-      12 | 10
+		01 | 10
+		02 | 10
+		03 | 10
+		04 | 10
+		05 | 5
+		06 | 10
+		07 | 10
+		08 | 5
+		09 | 5
+		10 | 5
+		11 | 10 
+		12 | 10
 
 Notes for Submission
 		a. Generate one .py file for each Question.
+		
 		b. Follow best coding practices like adding DocString, Try and Except clauses and Defensive Programming techniques.
+		
 		c. Add Testfunctions for questions where you are to check for multiple scenarios.
+		
 		d. Add Unittest functions where necessary.
+		
 		e. All your submissions should be under your git respository like Solutions>Python>ProblemSet01>(Place your files here). Repeat 
 		   for other ProblemSets and GradingSets.
 
@@ -32,7 +36,9 @@ Notes for Submission
 	[[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]] 
 
 Hints:
+------
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
+
 
 2.  Please write a program which counts and prints the numbers of each character in a string input by console.
 
@@ -51,7 +57,8 @@ Note: In case of input data being supplied to the question, it should be assumed
 	g,1
 	f,1
 
-	Hints:
+Hints:
+------
 	Use dict to store key/value pairs.
 	Use dict.get() method to lookup a key with default value.
 
@@ -75,6 +82,7 @@ Example
 	ABd1234@1
 
 Hints:
+------
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 5. (a)Write a program that will ask the user for a number and then print out a list of number from 1 to the number entered and the square of the number. 
@@ -112,6 +120,7 @@ In case of input data being supplied to the question, it should be assumed to be
 	f) Output the array statesList to the screen.
 
 Hints:
+------
 In case of input data being supplied to the question, it should be assumed to be a console input.
 Use list enumeration for sorting where necessary.
 
@@ -129,7 +138,8 @@ Use list enumeration for sorting where necessary.
 	Then, the output should be:
 	1,3,5,7,9
 
-	Hints:
+Hints:
+------
 	In case of input data being supplied to the question, it should be assumed to be a console input.
 
 10.	The Fibonacci Sequence is computed based on the following formula:
@@ -151,6 +161,7 @@ Use list enumeration for sorting where necessary.
 
 
 	Hints:
+	------
 	We can define recursive function in Python.
 	Use list comprehension to generate a list from an existing list.
 	Use string.join() to join a list of strings.
