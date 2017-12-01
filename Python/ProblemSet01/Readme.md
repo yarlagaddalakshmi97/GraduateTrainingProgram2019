@@ -12,10 +12,10 @@ entered, it should print a message to that effect.
 	a) The volume of a sphere with radius r is 4
 		3pr3. What is the volume of a sphere with radius 5?
 	Hint: 392.7 is wrong!
-b) Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs
+    b) Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs
 	$3 for the first copy and 75 cents for each additional copy. What is the total wholesale cost for
 	60 copies?
-c) If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), then 3 miles at
+    c) If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), then 3 miles at
 	tempo (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
 
 1. Write a program that asks the user to enter an integer and
@@ -33,13 +33,15 @@ height = 12.0
 delimiter = '.'
 For each of the following expressions, write the value of the expression and the type (of the value of
 the expression).
-1. width/2
-2. width/2.0
-3. height/3
-4. 1 + 2 * 5
-5. delimiter * 5
-Use the Python interpreter to check your answers
 
+```python
+>>> width/2
+>>> width/2.0
+>>> height/3
+>>> 1 + 2 * 5
+>>> delimiter * 5
+Use the Python interpreter to check your answers
+```
 1. Observe the Code Snippet
 ```python
 x = 25
@@ -58,6 +60,7 @@ high = ans
 ans = (high + low)/2.0
 print 'numGuesses =', numGuesses
 print ans, 'is close to square root of', x
+
 ```
 	a. What would the code above return if the statement x = 25
 were replaced by x = -25?
@@ -71,13 +74,16 @@ and returns True if either string occurs anywhere in the other, and False
 otherwise. Hint: you might want to use the built-in str operation in.
 
 1. Python provides a built-in function called len that returns the length of a string, so
-the value of len('Cigna') is 5.
-Write a function named right_justify that takes a string named s as a parameter and prints the
-string with enough leading spaces so that the last letter of the string is in column 70 of the display.
+the value of len('Cigna') is 5. Write a function named right_justify that takes a string named s as a parameter 
+and prints the string with enough leading spaces so that the last letter of the string is in column 70 of the display.
+
+```python
 >>> right_justify('Cigna')
 																	 Cigna
 
+```
 1. Implement a function that satisfies the specification. Use a try-except block.
+
 ```python
 def getRatios(vect1, vect2):
 	"""Assumes: vect1 and vect2 are lists of equal length of numbers
