@@ -4,6 +4,16 @@
 and prints the largest odd number among them. If none of them are odd, it
 should print a message to that effect.
 
+1. Python provides a built-in function called len that returns the length of a string, so
+the value of len('Cigna') is 5. Write a function named right_justify that takes a string named s as a parameter 
+and prints the string with enough leading spaces so that the last letter of the string is in column 70 of the display.
+
+```python
+>>> right_justify('Cigna')
+																	 Cigna
+
+```
+
 1. Write a program that asks the user to input 10 integers, and
 then prints the largest odd number that was entered. If no odd number was
 entered, it should print a message to that effect.
@@ -28,6 +38,10 @@ print a message to that effect.
 separated by commas, e.g., s = '1.23,2.4,3.123'. Write a program that prints
 the sum of the numbers in s.
 
+1. Write a function isIn() that accepts two strings as arguments
+and returns True if either string occurs anywhere in the other, and False
+otherwise. Hint: you might want to use the built-in str operation in.
+
 1. Implement a function that satisfies the specification. Use a try-except block.
 
 ```python
@@ -36,10 +50,6 @@ def getRatios(vect1, vect2):
 	Returns: a list containing the meaningful values of
 	vect1[i]/vect2[i]"""
 ```
-
-1. Write a function isIn() that accepts two strings as arguments
-and returns True if either string occurs anywhere in the other, and False
-otherwise. Hint: you might want to use the built-in str operation in.
 
 1. Assume that we execute the following assignment statements:
 width = 17
@@ -77,19 +87,11 @@ print 'numGuesses =', numGuesses
 print ans, 'is close to square root of', x
 
 ```
+
 a. What would the code above return if the statement x = 25
 were replaced by x = -25?
+
 b. What would have to be changed to make the code above
 for finding an approximation to the cube root of both negative and
 positive numbers? (Hint: think about changing low to ensure that the answer
 lies within the region being searched.)
-
-1. Python provides a built-in function called len that returns the length of a string, so
-the value of len('Cigna') is 5. Write a function named right_justify that takes a string named s as a parameter 
-and prints the string with enough leading spaces so that the last letter of the string is in column 70 of the display.
-
-```python
->>> right_justify('Cigna')
-																	 Cigna
-
-```
