@@ -47,15 +47,16 @@ Note: In case of input data being supplied to the question, it should be assumed
 	abcdefgabc
 
 	Then, the output of the program should be:
+```python
 
-	a,2
+>>>	a,2
 	c,2
 	b,2
 	e,1
 	d,1
 	g,1
 	f,1
-
+```
 ###Hints:
 	Use dict to store key/value pairs.
 	Use dict.get() method to lookup a key with default value.
