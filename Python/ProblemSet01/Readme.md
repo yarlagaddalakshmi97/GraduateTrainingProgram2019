@@ -4,7 +4,7 @@
 and prints the largest odd number among them. If none of them are odd, it
 should print a message to that effect.
 
-1. Python provides a built-in function called len that returns the length of a string, so
+2. Python provides a built-in function called len that returns the length of a string, so
 the value of len('Cigna') is 5. Write a function named right_justify that takes a string named s as a parameter 
 and prints the string with enough leading spaces so that the last letter of the string is in column 70 of the display.
 
@@ -14,7 +14,7 @@ and prints the string with enough leading spaces so that the last letter of the 
 
 ```
 
-1. Write a program that asks the user to input 10 integers, and
+3. Write a program that asks the user to input 10 integers, and
 then prints the largest odd number that was entered. If no odd number was
 entered, it should print a message to that effect.
 
