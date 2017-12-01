@@ -1,8 +1,10 @@
 ## Python Basics - Grading Exercise
 
         Question |  Points  
-        ---------|-------------
-			01 |  10  
+        ---------|----------
+        Question |  Points  
+        ---------|----------
+		01 |  10  
 			02 |  10  
 			03 |  10  
 			04 |  5  
