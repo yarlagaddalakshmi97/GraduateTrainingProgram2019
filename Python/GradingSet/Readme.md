@@ -1,8 +1,8 @@
 ## Python Basics - Grading Exercise
 
-Question | Points
----------|-------
-      01 | 10
+	Question | Points
+	---------|-------
+	  01 | 10
 	  02 | 10
       03 | 10
       04 | 10
@@ -17,10 +17,10 @@ Question | Points
 
 Notes for Submission
 		a. Generate one .py file for each Question.
-		a. Follow best coding practices like adding DocString, Try and Except clauses and Defensive Programming techniques.
-		a. Add Testfunctions for questions where you are to check for multiple scenarios.
-		a. Add Unittest functions where necessary.
-		a. All your submissions should be under your git respository like Solutions>Python>ProblemSet01>(Place your files here). Repeat 
+		b. Follow best coding practices like adding DocString, Try and Except clauses and Defensive Programming techniques.
+		c. Add Testfunctions for questions where you are to check for multiple scenarios.
+		d. Add Unittest functions where necessary.
+		e. All your submissions should be under your git respository like Solutions>Python>ProblemSet01>(Place your files here). Repeat 
 		   for other ProblemSets and GradingSets.
 
 1.	Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
@@ -34,8 +34,7 @@ Notes for Submission
 Hints:
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
 
-1.
-	Please write a program which counts and prints the numbers of each character in a string input by console.
+2.  Please write a program which counts and prints the numbers of each character in a string input by console.
 
 	Example:
 	If the following string is given as input to the program:
@@ -56,11 +55,11 @@ Note: In case of input data being supplied to the question, it should be assumed
 	Use dict to store key/value pairs.
 	Use dict.get() method to lookup a key with default value.
 
-1.	Write a Program to Implement a the linear search algorithm. Test that it works with items in and not in the list
+3.	Write a Program to Implement a the linear search algorithm. Test that it works with items in and not in the list
          (a) Add a counter to report how many searches have been done for each item searched for.
          (b) Add the functionality to add an item to the list if it is not found.
 
-1. 	A website requires the users to input username and password to register. Write a program to check the validity of password input by users.
+4. 	A website requires the users to input username and password to register. Write a program to check the validity of password input by users.
 	Following are the criteria for checking the password:
 	1. At least 1 letter between [a-z]
 	2. At least 1 number between [0-9]
@@ -78,7 +77,7 @@ Example
 Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
-1. (a)Write a program that will ask the user for a number and then print out a list of number from 1 to the number entered and the square of the number. 
+5. (a)Write a program that will ask the user for a number and then print out a list of number from 1 to the number entered and the square of the number. 
 	For example, if the user entered '3' then the program would output:
 
 	1 squared is 1.
@@ -94,7 +93,7 @@ In case of input data being supplied to the question, it should be assumed to be
 		{1: 1, 2: 8, 3: 27, 4: 64, 5: 125, 6: 216, 7: 373}
 		Take the input from the user via console.
 
-1.(a) Create a program which asks the user for 3 numbers representing the year, month and day e.g 1982 10 08 and then outputs in the form 8th October 1982.
+6.(a) Create a program which asks the user for 3 numbers representing the year, month and day e.g 1982 10 08 and then outputs in the form 8th October 1982.
   (b) Write a function greatestCommonDivisor that takes two positive integers and computes their greatest common divisor
 	Suppose the following input is supplied to the program:
 		2,30
@@ -102,7 +101,7 @@ In case of input data being supplied to the question, it should be assumed to be
 	The greatest common divisor is 2
 	Take the input from the user via console.
 
-1. Write a Python program named Indiastates.py that declares a variable states with value "Maharashtra Assam TamilNadu MadhyaPradesh Karnataka".  
+7. Write a Python program named Indiastates.py that declares a variable states with value "Maharashtra Assam TamilNadu MadhyaPradesh Karnataka".  
 	Write a program that does the following:
 	a) Search for a word in variable states that ends in esh. Store this word in element 0 of a list named statesList.
 	b) Search for a word in states that begins with t and ends in u. Perform a case-insensitive comparison. 
@@ -116,7 +115,7 @@ Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 Use list enumeration for sorting where necessary.
 
-1. 	Write a one- to three-line block of code for each of the following tasks:
+8. 	Write a one- to three-line block of code for each of the following tasks:
 		a) Create a string with 50 exclamation points (!) using the * operator.
 		b) Print out even numbers from 0 to 100.
 		c) Convert a user-entered number from a string to an integer.
@@ -124,7 +123,7 @@ Use list enumeration for sorting where necessary.
 		e) Concatenate an empty tuple and a singleton with the += statement.
 		f) Perform Mutable operation on a List and also append using += statement.
 
-1. 	Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
+9. 	Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
 	Suppose the following input is supplied to the program:
 	1,2,3,4,5,6,7,8,9
 	Then, the output should be:
@@ -133,7 +132,7 @@ Use list enumeration for sorting where necessary.
 	Hints:
 	In case of input data being supplied to the question, it should be assumed to be a console input.
 
-1.	The Fibonacci Sequence is computed based on the following formula:
+10.	The Fibonacci Sequence is computed based on the following formula:
 
 	f(n)=0 if n=0
 	f(n)=1 if n=1
@@ -158,7 +157,7 @@ Use list enumeration for sorting where necessary.
 
 	In case of input data being supplied to the question, it should be assumed to be a console input.
 
-1.	Create a file with the following matrix X:
+11.	Create a file with the following matrix X:
 	1 2
 	3 4
 	Read and then compute Y = 2 * X. 
@@ -168,7 +167,7 @@ Use list enumeration for sorting where necessary.
 	4 4
 	Read and then Compute(Matrix Mutilication) Y = X * Z
 
-1. 	Write a Python program to connect to a SQLite DB and Create table employees in it.
+12. Write a Python program to connect to a SQLite DB and Create table employees in it.
 
  	CREATE TABLE employees ID, Firstname,LastName,Dept.
  
