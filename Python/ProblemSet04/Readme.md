@@ -14,13 +14,14 @@ $ 1.00, $ 1.25. Also include special method __add__, and three getter methods th
 monetary value in another currency. Choose any three currencies to convert to.
 
 4. Write both a nonrecursive and recursive function that displays the rows of asterisks given below,
-			**
-		   ****
+'''
+            **
+	   ****
           ******
         **********
        ************
       **************
-
+'''
 5. Consider the following code
 '''python
 class Coordinate(object):
