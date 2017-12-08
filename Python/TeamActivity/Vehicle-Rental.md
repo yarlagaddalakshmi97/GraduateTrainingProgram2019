@@ -38,7 +38,7 @@ Specific Vehicles of the Vehicle Rental Agency are given as
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
 
 Overall Design of the Vehicle Rental Agency Program is specified as shown below
-![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+![alt text](https://raw.githubusercontent.com/krishnakumarraghu/New-Onboards-Training/Python/TeamActivity/images/0-Design.png)
 
 Use the following Class Diagram for Vehicle Rental Agency Program
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
