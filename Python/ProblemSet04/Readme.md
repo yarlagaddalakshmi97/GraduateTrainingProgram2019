@@ -69,13 +69,13 @@ Develop the subclasses Fahrenheit, Celsius and Kelvin to appropriately implement
 Fahrenheit, then a copy of the Temperature object should be returned.)
 
 Demonstrate the correctness of your classes by doing the following:
-a) Create a list of Temperature objects of a mix of Temperature types
+1. Create a list of Temperature objects of a mix of Temperature types
 
-b) Print out the value of each temperature in the list, and add “above freezing” if the temperature is above
+2. Print out the value of each temperature in the list, and add “above freezing” if the temperature is above
 freezing (for the specifi c temperature scale).
 
-c) Create a new list of temperatures containing each temperature of the original list converted to a common
+3. Create a new list of temperatures containing each temperature of the original list converted to a common
 temperature scale (Fahrenheit, Celsius, or Kelvin).
 
-d) For each temperature object in the new list, print out its temperature value, and if it is above the freezing
+4. For each temperature object in the new list, print out its temperature value, and if it is above the freezing
 point.
