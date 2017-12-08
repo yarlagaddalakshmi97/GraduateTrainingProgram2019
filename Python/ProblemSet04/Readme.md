@@ -26,7 +26,7 @@ monetary value in another currency. Choose any three currencies to convert to.
 
 5. Consider the following code
 
-'''python
+'''
 class Coordinate(object):
     def __init__(self, x, y):
         self.x = x
