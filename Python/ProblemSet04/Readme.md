@@ -14,6 +14,7 @@ $ 1.00, $ 1.25. Also include special method __add__, and three getter methods th
 monetary value in another currency. Choose any three currencies to convert to.
 
 4. Write both a nonrecursive and recursive function that displays the rows of asterisks given below,
+
 '''
             **
 	   ****
@@ -22,7 +23,9 @@ monetary value in another currency. Choose any three currencies to convert to.
        ************
       **************
 '''
+
 5. Consider the following code
+
 '''python
 class Coordinate(object):
     def __init__(self, x, y):
@@ -43,9 +46,9 @@ class Coordinate(object):
 '''
 Your need to define the following two methods for the Coordinate class:
 
-	a) Add an __eq__ method that returns True if coordinates refer to same point in the plane (i.e., have the same x and y coordinate).
+a) Add an __eq__ method that returns True if coordinates refer to same point in the plane (i.e., have the same x and y coordinate).
 
-	b) Define __repr__, a special method that returns a string that looks like a valid Python expression that could be used to recreate an object with the same value. In other words, eval(repr(c)) == c given the definition of __eq__ from part 1.
+b) Define __repr__, a special method that returns a string that looks like a valid Python expression that could be used to recreate an object with the same value. In other words, eval(repr(c)) == c given the definition of __eq__ from part 1.
 	
 6. Develop an abstract class named Temperature that stores a single temperature. The class should have
 the following function header for special method __init__,
@@ -57,10 +60,9 @@ the following function header for special method __init__,
 	convertToCelsius — returns a new Temperature object converted to degrees Celsius
 	convertToKelvin — returns a new Temperature object converted to degrees Kelvin	
 	
-	Develop the subclasses Fahrenheit, Celsius and Kelvin to appropriately implement each of 
-the methods in the abstract Temperature class. (Note that when a meaningless conversion method
-is applied, for example, temp1.convertToFahrenheit() where temp1 is an object of type
+Develop the subclasses Fahrenheit, Celsius and Kelvin to appropriately implement each of the methods in the abstract Temperature class. (Note that when a meaningless conversion method is applied, for example, temp1.convertToFahrenheit() where temp1 is an object of type
 Fahrenheit, then a copy of the Temperature object should be returned.)
+
 Demonstrate the correctness of your classes by doing the following:
 	a) Create a list of Temperature objects of a mix of Temperature types
 	b) Print out the value of each temperature in the list, and add “above freezing” if the temperature is above
