@@ -33,13 +33,19 @@ The Specific requirements of this program are
 	
 The specific rental costs for each vehicle type are given as 
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 Specific Vehicles of the Vehicle Rental Agency are given as
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 Overall Design of the Vehicle Rental Agency Program is specified as shown below
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 Use the following Class Diagram for Vehicle Rental Agency Program
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 Sample Screenshots for the Program Output are as shown below
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
+
 ![alt text](https://raw.githubusercontent.com/krishnakumarraghu/InductionAssignments/master/logo-code-academy.png)
