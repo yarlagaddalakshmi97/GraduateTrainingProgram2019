@@ -1,26 +1,40 @@
-**********************************
-****Python Grading Exercises*****
-**********************************
+## Python Basics - Grading Exercise
 
-#### Passing Marks 50/100 #####
+Grading Points
+---------------
 
-********Weightage Table*******
-01 - 10,
-02 - 10,
-03 - 10,
-04 - 10,
-05 - 5,
-06 - 10,
-07 - 10,
-08 - 5,
-09 - 5,
-10 - 5,
-11 - 10, 
-12 - 10
-**********************************
+        Question |  Points  
+        ---------|----------
+              01 |  10  
+              02 |  10  
+              03 |  10  
+              04 |  5  
+              05 |  10  
+              06 |  5  
+              07 |  10  
+              08 |  10  
+              09 |  10  
+              10 |  5  
+              11 |  10  
+              12 |  5  
 
-1.
-	Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
+Notes for Submission
+---------------------
+a. Generate one .py file for each Question.
+	
+b. Follow best coding practices like adding DocString, Try and Except clauses and Defensive Programming techniques.
+		
+c. Add Testfunctions for questions where you are to check for multiple scenarios.
+		
+d. Add Unittest functions where necessary.
+		
+e. All your submissions should be under your git respository like Solutions>Python>ProblemSet01>(Place your files here). Repeat 
+for other ProblemSets and GradingSets.
+
+Questions
+------------
+
+1.	Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
 	Note: i=0,1.., X-1; j=0,1,¡­Y-1.
 	Example
 	Suppose the following inputs are given to the program:
@@ -31,8 +45,8 @@
 Hints:
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
 
-2.
-	Please write a program which counts and prints the numbers of each character in a string input by console.
+
+2.  Please write a program which counts and prints the numbers of each character in a string input by console.
 
 	Example:
 	If the following string is given as input to the program:
@@ -40,16 +54,17 @@ Note: In case of input data being supplied to the question, it should be assumed
 	abcdefgabc
 
 	Then, the output of the program should be:
+```python
 
-	a,2
+>>>	a,2
 	c,2
 	b,2
 	e,1
 	d,1
 	g,1
 	f,1
-
-	Hints:
+```
+Hints:
 	Use dict to store key/value pairs.
 	Use dict.get() method to lookup a key with default value.
 
@@ -75,7 +90,7 @@ Example
 Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
-5(a).Write a program that will ask the user for a number and then print out a list of number from 1 to the number entered and the square of the number. 
+5. (a)Write a program that will ask the user for a number and then print out a list of number from 1 to the number entered and the square of the number. 
 	For example, if the user entered '3' then the program would output:
 
 	1 squared is 1.
@@ -113,8 +128,7 @@ Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 Use list enumeration for sorting where necessary.
 
-8.
-	Write a one- to three-line block of code for each of the following tasks:
+8. 	Write a one- to three-line block of code for each of the following tasks:
 		a) Create a string with 50 exclamation points (!) using the * operator.
 		b) Print out even numbers from 0 to 100.
 		c) Convert a user-entered number from a string to an integer.
@@ -122,14 +136,13 @@ Use list enumeration for sorting where necessary.
 		e) Concatenate an empty tuple and a singleton with the += statement.
 		f) Perform Mutable operation on a List and also append using += statement.
 
-9.
-	Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
+9. 	Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
 	Suppose the following input is supplied to the program:
 	1,2,3,4,5,6,7,8,9
 	Then, the output should be:
 	1,3,5,7,9
 
-	Hints:
+Hints:
 	In case of input data being supplied to the question, it should be assumed to be a console input.
 
 10.	The Fibonacci Sequence is computed based on the following formula:
@@ -157,8 +170,7 @@ Use list enumeration for sorting where necessary.
 
 	In case of input data being supplied to the question, it should be assumed to be a console input.
 
-11.
-	Create a file with the following matrix X:
+11.	Create a file with the following matrix X:
 	1 2
 	3 4
 	Read and then compute Y = 2 * X. 
@@ -168,17 +180,18 @@ Use list enumeration for sorting where necessary.
 	4 4
 	Read and then Compute(Matrix Mutilication) Y = X * Z
 
-12. 	Write a Python program to connect to a MySQL DB and Create table employees in it.
+12. Write a Python program to connect to a SQLite DB and Create table employees in it.
 
  	CREATE TABLE employees ID, Firstname,LastName,Dept.
  
 	Data:          
- 	100, 'Luis','Medina', 'CICD'
- 	200, 'Srini','Batchu', 'Guild'
- 	300, 'Silvio','Galiea', 'Cust/FDS'
- 	400, 'Marcos','Pendas', 'Prov/DevOps'
- 	500, 'Paul','Mancenalli', NULL
+ 	100, 'Sunil','Shetty', 'Cinema'
+ 	200, 'Srini','Mahalingam', 'IT'
+ 	300, 'Adam','Sanders', 'IT'
+ 	400, 'Tommy','Mancenty', 'Guild'
+ 	500, 'Hovis','M', NULL
+	
 	Add 3 more employees records under each department.
 	a) Read and display the records.
 	b) Generate a report for Department 'Guild' 
-	c) Update all 'CICD' Dept Employees to <User Provided Dept>. Get the department to be changed from the User.
+	c) Update all 'IT' Dept Employees to <User Provided Dept>. Get the department to be changed from the User.
