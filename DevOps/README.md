@@ -1,6 +1,7 @@
 # DevOps Virtual Trainings
 
 [DevOps Academy Learning Board](https://connectedlearning.accenture.com/learningboard/326218-devops-academy)
+
 [Overview of Jenkins](https://mylearning.accenture.com/myl-ui/learner/activityDetails?referrer=search&activityID=1217709&source=myLearning&refresh=1151.3214055122467)
 
 # Classroom Trainings (Mandatory)
