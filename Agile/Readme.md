@@ -1,4 +1,4 @@
-#Details for Agile Virtual and Classroom Sessions
+# Details for Agile Virtual and Classroom Sessions
 
 ## Pre-Requisites for Training for Agile Delivery School (Classroom):
 [Introducing Agile Software Development](https://mylearning.accenture.com/accenture/lang-en/management/LMS_ActDetails.asp?ActId=681721) Duration: 2 hours
