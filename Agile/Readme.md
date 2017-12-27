@@ -9,7 +9,7 @@
 1. [Kanban Fundamentals](https://mylearning.accenture.com/myl-ui/learner/activityDetails?activityID=1284902)
 1. [Agile in the Real World](https://mylearning.accenture.com/myl-ui/learner/activityDetails?activityID=1284906)
 
-##Grading Exam
+## Grading Exam
 [Agile ATA](https://in.accenture.com/accenturetechnologyacademy/certify/new-technology-credentials/)
 
 [Agile ATA 2.0 Assessment](https://mylearning.accenture.com/myl-ui/learner/activityDetails?activityID=1356182&source=myLearning&referrer=https:%2F%2Fportal.accenture.com)
