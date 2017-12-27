@@ -8,4 +8,4 @@
 
 ## Payer Specific Trainings (Cigna Specific) 
 
-Payer Overview (https://mylearning.accenture.com/myl-ui/learner/activityDetails?activityID=1186565&source=mylearning)
+[Payer Overview](https://mylearning.accenture.com/myl-ui/learner/activityDetails?activityID=1186565&source=mylearning)
