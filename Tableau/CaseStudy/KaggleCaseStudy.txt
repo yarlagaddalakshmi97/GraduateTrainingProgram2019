@@ -1,0 +1,42 @@
+Which Year marked the most number of attacks?
+
+Which month witnessed the most number of attacks from year 1970-2016?
+
+Which country was most affected with terrorism?
+
+Which city has seen most attacks from 2000-2016?
+
+Which attack type is preferred for terrorists?
+
+what kind of people are most targeted? (Example: Police or Journalists or politicians etc.,)
+
+Which country has least attacks in 2016 and which county has the least attacks between 1970-2016?
+
+List top 2 reasons(motives) for terrorist attack?
+
+which Weapon type is preferred by terrorists except "Unknown" type?
+
+Has any country paid ransom amount to avoid the casuality ? if so, what is maximum amount paid?
+
+Allow the user to select country, and in report show the number of attacks ONLY for that country.
+
+Create a calculated field of your own, based on the available data.
+
+Create a dashboard with maps, and based on the number of attacks change the size of the mark. 
+Also, when the user clicks a specific country  
+	1.Go to the country's wikipedia page.
+	2.In parallel work sheet, show the list of cities in that country , sorted by number of attacks.
+
+Create a story - that includes
+		Page 1 : Most affected city
+		Page 2 : Most affected professionals.
+		Page 3 : Top 10 countries with least number of attacks. 
+
+Note: 
+1.Create Indidvidual worksheets to answer each of these questions.
+2.Hide the un-used columns and rename the columns appropriately - and extract only required columns.
+
+
+
+
+
