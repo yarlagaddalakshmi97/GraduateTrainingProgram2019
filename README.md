@@ -1,7 +1,7 @@
 
 # Induction Assignments
 
-## Welcome to Cigna IM.
+## Welcome to IM.
 
 This repository will hold the SQL,Python,Tableau,Looker and Git Learning aids and Assignments to be Completed for the New Onboards. Also this repository will hold the handouts and other trainings materials from the Classroom sessions (Including Agile and SoftSkills).
 
